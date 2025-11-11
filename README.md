@@ -6,15 +6,15 @@ The primary application has been high school tennis results in Oregon (I am a hi
 This project is primarily used as a way to train myself in Python.  Parts of the modules were built at various stages of my training, so it includes a variety of different styles and includes a few things where I've resorted to "it's good enough for now".  Most of it has been moved into jupyter notebooks
 
 Python Libraries Used:
-  pandas
-  numpy
-  matplotlib
-  seaborn
-  sqlite3
-  json
-  csv
-  pprint (development only)
-  requests
+  pandas, 
+  numpy, 
+  matplotlib, 
+  seaborn, 
+  sqlite3, 
+  json, 
+  csv ,
+  pprint (development only), 
+  requests, 
   urllib.request, urllib.parse, urllib.error
   
 
@@ -36,6 +36,7 @@ These assumptions help differentiate players early in the season when not many m
   -- By rules, players must be played in order of strength (e.g. #1 can beat #2).
   -- The level difference in high school varsity tennis is massive.  They range from D1 prospects down to literal beginners without much athletic training.
   -- The 2025 rating assumptions are below (based on 2024 actuals):
+  
 S1,27
 S2,23.4
 S3,21
